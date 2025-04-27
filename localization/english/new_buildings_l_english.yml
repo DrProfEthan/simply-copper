@@ -1,0 +1,13 @@
+﻿l_english:
+ building_iron_mine:0 "Iron Mines"
+ building_iron_mine_lens_option:0 "Expand $building_iron_mine$"
+ building_copper_mine:0 "Copper Mines"
+ building_copper_mine_lens_option:0 "Expand $building_iron_mine$"
+
+ UNEMPLOYED:0 "[concept_unemployed]"
+
+# Building Groups
+ bg_gold_mining:0 "Gold Mines"
+ bg_coal_mining:0 "Coal Mines"
+ bg_iron_mining:0 "Iron Mines"
+ bg_copper_mining:0 "Copper Mines"

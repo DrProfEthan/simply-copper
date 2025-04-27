@@ -1,0 +1,6 @@
+﻿l_simp_chinese:
+ building_iron_mine: "铜矿"
+ building_iron_mine_lens_option: "扩建$building_copper_mine$"
+
+# Building Groups
+ bg_copper_mining:0 "铜矿"

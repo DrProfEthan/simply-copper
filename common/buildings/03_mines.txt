@@ -52,7 +52,7 @@ building_iron_mine = {
 	terrain_manipulator = mining
 	
 	unlocking_technologies = {
-		shaft_mining
+		prospecting
 	}
 
 	production_method_groups = {
