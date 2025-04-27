@@ -303,7 +303,7 @@ iron = {
 }
 
 copper = {
-	texture = "gfx/interface/icons/goods_icons/sulfur.dds"
+	texture = "gfx/interface/icons/goods_icons/copper.dds"
 	cost = 50
 	category = industrial
 	
