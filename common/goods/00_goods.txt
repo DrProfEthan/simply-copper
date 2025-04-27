@@ -302,15 +302,6 @@ iron = {
 	traded_quantity = 7.5 # 300
 }
 
-lead = {
-	texture = "gfx/interface/icons/goods_icons/lead.dds"
-	cost = 40
-	category = industrial
-	
-	prestige_factor = 5
-	traded_quantity = 7.5 # 300
-}
-
 copper = {
 	texture = "gfx/interface/icons/goods_icons/sulfur.dds"
 	cost = 50
@@ -318,6 +309,15 @@ copper = {
 	
 	prestige_factor = 5
 	traded_quantity = 6 # 300
+}
+
+lead = {
+	texture = "gfx/interface/icons/goods_icons/lead.dds"
+	cost = 40
+	category = industrial
+	
+	prestige_factor = 5
+	traded_quantity = 7.5 # 300
 }
 
 hardwood = {
@@ -462,18 +462,6 @@ liquor = {
 	traded_quantity = 12 # 360
 	convoy_cost_multiplier = 0.75
 }
-
-# spices = {
-# 	texture = "gfx/interface/icons/goods_icons/liquor.dds"
-# 	cost = 30
-# 	category = luxury
-	
-# 	obsession_chance = 1.5
-# 	prestige_factor = 5
-	
-# 	traded_quantity = 7 # 360
-# 	convoy_cost_multiplier = 0.75
-# }
 
 wine = {
 	texture = "gfx/interface/icons/goods_icons/wine.dds"

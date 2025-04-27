@@ -1,9 +1,9 @@
 {
-  "name" : "Better Resources Mod",
+  "name" : "Simply Copper",
 	"id" : "",
   "version" : "0.1",
   "supported_game_version" : "1.9.*",
-  "short_description" : "An overhaul of goods, PMs, and resource placement.",
+  "short_description" : "Adds a new mineable good: copper. A resource crucial to many complex industrial products!",
   "tags" : [],
   "relationships" : [],
   "game_custom_data" : {

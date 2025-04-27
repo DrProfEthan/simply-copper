@@ -90,3 +90,4 @@
         
         background = "gfx/interface/icons/building_icons/backgrounds/building_panel_wheat_farms_bg.dds" # Background texture for building registry items
     }
+
