@@ -56,10 +56,10 @@ building_iron_mine = {
 	}
 
 	production_method_groups = {
-		pmg_mining_equipment_building_iron_mine
-		pmg_explosives_building_iron_mine
-		pmg_steam_automation_building_iron_mine
-		pmg_train_automation_building_iron_mine
+		pmg_mining_equipment_building_copper_mine
+		pmg_explosives_building_copper_mine
+		pmg_steam_automation_building_copper_mine
+		pmg_train_automation_building_copper_mine
 	}
 	ownership_type = self
 

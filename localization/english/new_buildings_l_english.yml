@@ -11,3 +11,47 @@
  bg_coal_mining:0 "Coal Mines"
  bg_iron_mining:0 "Iron Mines"
  bg_copper_mining:0 "Copper Mines"
+
+ pmg_mining_equipment_building_copper_mine:0 "Mining Equipment"
+
+ pm_no_mining_equipment:0 "No Equipment"
+
+ pm_picks_and_shovels_building_copper_mine:0 "Picks and Shovels"
+
+ pm_atmospheric_engine_pump_building_coal_mine:0 "Atmospheric Engine Pump"
+ pm_atmospheric_engine_pump_building_iron_mine:0 "Atmospheric Engine Pump"
+ pm_atmospheric_engine_pump_building_lead_mine:0 "Atmospheric Engine Pump"
+ pm_atmospheric_engine_pump_building_copper_mine:0 "Atmospheric Engine Pump"
+ pm_atmospheric_engine_pump_building_gold_mine:0 "Atmospheric Engine Pump"
+
+ pmg_explosives_building_coal_mine:0 "Explosives"
+ pmg_explosives_building_iron_mine:0 "Explosives"
+ pmg_explosives_building_lead_mine:0 "Explosives"
+ pmg_explosives_building_copper_mine:0 "Explosives"
+ pmg_explosives_building_gold_mine:0 "Explosives"
+
+ pm_no_explosives:0 "Manual Drilling"
+
+ pm_nitroglycerin_building_coal_mine:0 "Nitroglycerin"
+ pm_nitroglycerin_building_iron_mine:0 "Nitroglycerin"
+ pm_nitroglycerin_building_lead_mine:0 "Nitroglycerin"
+ pm_nitroglycerin_building_copper_mine:0 "Nitroglycerin"
+ pm_nitroglycerin_building_gold_mine:0 "Nitroglycerin"
+
+ pm_dynamite_building_coal_mine:0 "Dynamite"
+ pm_dynamite_building_iron_mine:0 "Dynamite"
+ pm_dynamite_building_lead_mine:0 "Dynamite"
+ pm_dynamite_building_copper_mine:0 "Dynamite"
+ pm_dynamite_building_gold_mine:0 "Dynamite"
+
+ pm_condensing_engine_pump_building_coal_mine:0 "Condensing Engine Pump"
+ pm_condensing_engine_pump_building_iron_mine:0 "Condensing Engine Pump"
+ pm_condensing_engine_pump_building_lead_mine:0 "Condensing Engine Pump"
+ pm_condensing_engine_pump_building_copper_mine:0 "Condensing Engine Pump"
+ pm_condensing_engine_pump_building_gold_mine:0 "Condensing Engine Pump"
+
+ pm_diesel_pump_building_coal_mine:0 "Diesel Pump"
+ pm_diesel_pump_building_iron_mine:0 "Diesel Pump"
+ pm_diesel_pump_building_lead_mine:0 "Diesel Pump"
+ pm_diesel_pump_building_copper_mine:0 "Diesel Pump"
+ pm_diesel_pump_building_gold_mine:0 "Diesel Pump"
