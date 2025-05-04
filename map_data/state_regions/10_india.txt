@@ -593,6 +593,7 @@ STATE_SHAN_STATES = {
         bg_iron_mining = 8
         bg_coal_mining = 5
         bg_lead_mining = 34
+        bg_copper_mining = 10
         bg_logging = 17
     }
     resource = {

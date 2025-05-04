@@ -694,6 +694,7 @@ STATE_SEMIRECHE = {
     capped_resources = {
         bg_coal_mining = 28
         bg_lead_mining = 16
+        bg_copper_mining = 16
         bg_logging = 4
     }
 }
@@ -746,6 +747,7 @@ STATE_FERGANA = {
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_tea_plantations" "bg_cotton_plantations" }
     capped_resources = {
         bg_iron_mining = 21
+        bg_copper_mining = 16
         bg_logging = 5
     }
 }
@@ -778,7 +780,8 @@ STATE_SYRDARYA = {
     arable_resources = { "bg_livestock_ranches" }
     capped_resources = {
         bg_iron_mining = 15
-        bg_lead_mining = 60
+        bg_lead_mining = 50
+        bg_copper_mining = 24
         bg_logging = 6
     }
 }
@@ -1186,6 +1189,7 @@ STATE_ELIZAVETPOL = {
     arable_resources = { "bg_livestock_ranches" "bg_vineyard_plantations" }
     capped_resources = {
         bg_iron_mining = 10
+        bg_copper_mining = 6
         bg_logging = 12
     }
 }
@@ -1260,6 +1264,7 @@ STATE_NENETSIA = {
         bg_logging = 13
         bg_fishing = 12
         bg_coal_mining = 30
+        bg_copper_mining = 12
     }
     resource = {
         type = "bg_oil_extraction"
